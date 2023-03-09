@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b998da42f612110a6fdde1a2799b67a" label="Org Structure" max_length="40" name="x_184419_ttm_org_structure" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cost Center" max_length="40" name="cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="80" name="department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department Start Date" max_length="40" name="department_start_date" type="string"/>
+        <element label="Department Status" max_length="40" name="department_status" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Division" max_length="80" name="division" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

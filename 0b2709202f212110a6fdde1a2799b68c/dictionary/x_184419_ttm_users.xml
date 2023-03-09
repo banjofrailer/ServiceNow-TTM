@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d1a85e42f612110a6fdde1a2799b68c" label="Users" max_length="40" name="x_184419_ttm_users" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="80" name="job_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="80" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Team" max_length="80" name="team" type="string"/>
+    </element>
+</database>

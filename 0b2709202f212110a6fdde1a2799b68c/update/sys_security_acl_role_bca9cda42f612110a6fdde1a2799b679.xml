@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-09 20:18:15</sys_created_on>
+        <sys_id>bca9cda42f612110a6fdde1a2799b679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_184419_ttm_org_structure.x_184419_ttm.hr</sys_name>
+        <sys_package display_value="Teammate Technology Management (TTM)" source="x_184419_ttm">0b2709202f212110a6fdde1a2799b68c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Teammate Technology Management (TTM)">0b2709202f212110a6fdde1a2799b68c</sys_scope>
+        <sys_security_acl display_value="x_184419_ttm_org_structure">38a9cda42f612110a6fdde1a2799b677</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bca9cda42f612110a6fdde1a2799b679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-09 20:18:15</sys_updated_on>
+        <sys_user_role display_value="x_184419_ttm.hr" name="x_184419_ttm.hr">37988d242f612110a6fdde1a2799b609</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

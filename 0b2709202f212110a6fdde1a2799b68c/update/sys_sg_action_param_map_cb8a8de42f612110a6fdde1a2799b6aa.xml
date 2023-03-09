@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Org Structure)">8b8a8de42f612110a6fdde1a2799b6a8</button>
+        <item_parameter display_value="Org Structure division">0f8a8de42f612110a6fdde1a2799b6a7</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-09 20:22:14</sys_created_on>
+        <sys_id>cb8a8de42f612110a6fdde1a2799b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0f8a8de42f612110a6fdde1a2799b6a7</sys_name>
+        <sys_package display_value="Teammate Technology Management (TTM)" source="x_184419_ttm">0b2709202f212110a6fdde1a2799b68c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Teammate Technology Management (TTM)">0b2709202f212110a6fdde1a2799b68c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_cb8a8de42f612110a6fdde1a2799b6aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-09 20:22:14</sys_updated_on>
+        <ui_parameter display_value="Division">c38a8de42f612110a6fdde1a2799b6aa</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
